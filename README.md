@@ -6,6 +6,7 @@ Summer Assignment
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0054-spiral-matrix) |
 | [0283-move-zeroes](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0566-reshape-the-matrix) |
@@ -35,5 +36,10 @@ Summer Assignment
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0344-reverse-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
