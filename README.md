@@ -15,6 +15,7 @@ Summer Assignment
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0977-squares-of-a-sorted-array) |
@@ -37,6 +38,7 @@ Summer Assignment
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0344-reverse-string) |
 ## Trie
 |  |
