@@ -42,6 +42,7 @@ Summer Assignment
 | [0125-valid-palindrome](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
@@ -51,6 +52,7 @@ Summer Assignment
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -59,5 +61,6 @@ Summer Assignment
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
