@@ -47,6 +47,7 @@ Summer Assignment
 | [0344-reverse-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
@@ -59,6 +60,7 @@ Summer Assignment
 | [0242-valid-anagram](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0567-permutation-in-string) |
 ## Queue
 |  |
@@ -73,5 +75,6 @@ Summer Assignment
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
