@@ -16,6 +16,7 @@ Summer Assignment
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0344-reverse-string) |
@@ -42,6 +43,7 @@ Summer Assignment
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0344-reverse-string) |
@@ -77,4 +79,8 @@ Summer Assignment
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0567-permutation-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
