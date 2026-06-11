@@ -12,6 +12,7 @@ Summer Assignment
 | [0485-max-consecutive-ones](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0566-reshape-the-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0977-squares-of-a-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1572-matrix-diagonal-sum](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
@@ -108,4 +109,8 @@ Summer Assignment
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0394-decode-string) |
+## Binary Search
+|  |
+| ------- |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
