@@ -45,6 +45,7 @@ Summer Assignment
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0242-valid-anagram) |
@@ -92,5 +93,10 @@ Summer Assignment
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0392-is-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
