@@ -53,6 +53,7 @@ Summer Assignment
 | [0383-ransom-note](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -99,4 +100,12 @@ Summer Assignment
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0022-generate-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
