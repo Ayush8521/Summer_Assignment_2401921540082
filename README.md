@@ -16,6 +16,7 @@ Summer Assignment
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@ Summer Assignment
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -94,6 +96,7 @@ Summer Assignment
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0392-is-subsequence) |
 ## Backtracking
