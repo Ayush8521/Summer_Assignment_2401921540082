@@ -9,6 +9,7 @@ Summer Assignment
 | [0014-longest-common-prefix](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0566-reshape-the-matrix) |
@@ -104,6 +105,7 @@ Summer Assignment
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
