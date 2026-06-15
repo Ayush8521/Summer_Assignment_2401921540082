@@ -118,10 +118,15 @@ Summer Assignment
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0394-decode-string) |
 ## Binary Search
 |  |
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
