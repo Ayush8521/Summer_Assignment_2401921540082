@@ -121,6 +121,7 @@ Summer Assignment
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0394-decode-string) |
 ## Binary Search
@@ -131,6 +132,7 @@ Summer Assignment
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0876-middle-of-the-linked-list) |
