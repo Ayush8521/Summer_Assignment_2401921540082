@@ -55,6 +55,7 @@ Summer Assignment
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0049-group-anagrams) |
@@ -119,6 +120,7 @@ Summer Assignment
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0394-decode-string) |
 ## Recursion
