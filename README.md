@@ -9,6 +9,7 @@ Summer Assignment
 | [0014-longest-common-prefix](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0054-spiral-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0283-move-zeroes) |
@@ -125,6 +126,7 @@ Summer Assignment
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0234-palindrome-linked-list) |
@@ -159,6 +161,7 @@ Summer Assignment
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0739-daily-temperatures) |
 ## Math
