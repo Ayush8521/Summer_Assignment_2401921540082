@@ -96,6 +96,7 @@ Summer Assignment
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Summer Assignment
 | ------- |
 | [0155-min-stack](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -171,4 +173,8 @@ Summer Assignment
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0150-evaluate-reverse-polish-notation) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
