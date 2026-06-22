@@ -17,8 +17,7 @@ class FirstClass extends Compartment {
 class Ladies extends Compartment {
     @Override
     public String notice() {
-        return "[LADIES COMPARTMENT] This compartment is reserved exclusively for female passengers. " +
-               "Male passengers are strictly prohibited from entering. " ;
+        return "[LADIES COMPARTMENT] This compartment is reserved exclusively for female passengers. " ;
     }
 }
 
@@ -35,8 +34,7 @@ class General extends Compartment {
 class Luggage extends Compartment {
     @Override
     public String notice() {
-        return "[LUGGAGE / PARCEL VAN] This compartment is designated for luggage, " +
-               "parcels, and cargo only. Passengers are NOT permitted to travel here. " ;
+        return "[LUGGAGE / PARCEL VAN] This compartment is designated for luggage, ";
     }
 }
 
@@ -59,9 +57,7 @@ public class TestCompartment {
         }
 
         // Polymorphic call to notice()
-        System.out.println("=".repeat(65));
         System.out.println("       INDIAN RAILWAYS - TRAIN COMPARTMENT NOTICES");
-        System.out.println("=".repeat(65));
 
         for (int i = 0; i < train.length; i++) {
             System.out.printf("%nCoach %2d | Type: %s%n", i + 1, train[i].getClass().getSimpleName());
