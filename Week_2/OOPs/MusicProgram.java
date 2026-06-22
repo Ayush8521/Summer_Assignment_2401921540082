@@ -4,16 +4,12 @@
 interface Playable {
     void play();
 }
-
-// -- package music.string -- 
 class Veena implements Playable {
     @Override
     public void play() {
         System.out.println("Veena is playing a classical raaga...");
     }
 }
-
-// -- package music.wind -- 
 class Saxophone implements Playable {
     @Override
     public void play() {
@@ -21,7 +17,6 @@ class Saxophone implements Playable {
     }
 }
 
-// -- package live -- 
 public class MusicProgram {               
 
     public static void main(String[] args) {
@@ -43,11 +38,11 @@ public class MusicProgram {
 
         Playable instrument;
 
-        instrument = new Veena();       // Playable ref -> Veena object
-        instrument.play();              // calls Veena's play()
+        instrument = new Veena();       
+        instrument.play();              
 
-        instrument = new Saxophone();   // same ref -> Saxophone object
-        instrument.play();              // calls Saxophone's play()
+        instrument = new Saxophone();  
+        instrument.play();             
 
         System.out.println("\n == Program Ends == ");
     }
