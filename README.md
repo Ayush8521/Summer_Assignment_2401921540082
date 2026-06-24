@@ -198,6 +198,7 @@ Summer Assignment
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -222,4 +223,9 @@ Summer Assignment
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
