@@ -10,6 +10,7 @@ Summer Assignment
 | [0049-group-anagrams](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0239-sliding-window-maximum) |
@@ -85,6 +86,7 @@ Summer Assignment
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0383-ransom-note) |
@@ -200,6 +202,7 @@ Summer Assignment
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0226-invert-binary-tree) |
@@ -239,6 +242,7 @@ Summer Assignment
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0226-invert-binary-tree) |
@@ -251,4 +255,8 @@ Summer Assignment
 | [0098-validate-binary-search-tree](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0700-search-in-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayush8521/Summer_Assignment_2401921540082/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
